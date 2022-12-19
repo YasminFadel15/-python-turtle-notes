@@ -8,7 +8,7 @@ t.forward()
 t.right()
 t.left()
 t.seth()                           # change the direction
-t.penup()                          # uuuuuuuunglued the marker 
+t.penup()                          # unglued the marker 
 t.spedd()
 t.back()
 
